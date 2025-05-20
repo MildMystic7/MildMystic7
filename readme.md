@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=20&fontColor=fff"/>
 
 <div align="center">
-  <h2>👋 Hey, I’m MildMystic777!</h2>
+  <h2>👋 Hey, I’m MildMystic7 !</h2>
   <h3>Senior Software Developer </h3>
 </div>
 
